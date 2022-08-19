@@ -1,5 +1,5 @@
-# Dashboard-de-Vendas-01
-Dashboard construído no PowerBI e desenvolvido durante um curso online.
+# Dashboard de Vendas 01 - PowerBI
+Dashboard desenvolvido durante um curso online do PensarCursos (https://www.pensarcursos.com.br/curso/powerbi).
 
 ### Resultado do Dashboard:
 
